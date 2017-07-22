@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>My first form</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+
+  <body>
+    <header class='speaker-form-header'>
+      <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+      <h1>My first form!</h1>
+
+    </header>
+
+    <form action='' method='get' class='speaker-form'>
+      <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+      <p><em>Want to speak at our fake conference? Fill out
+      this form.</em></p>
+     </form>
+
+  <div class='form-row'>
+      <label for='full-name'>Form</label>
+      <input id='full-name' name='full-name' type='text'/>
+    </div>
+
+<div class='form-row'>
+      <label for='email' type='email'>Email</label>
+      <input id='email'
+             name='email'
+             type='email'
+             placeholder='Writes'/>
+    </div>
+
+<div class='form-row'>
+  <label for='t-shirt'>T-Shirt Size</label>
+  <select id='t-shirt' name='t-shirt'>
+    <option value='xs'>Extra Small</option>
+    <option value='s'>Small</option>
+    <option value='m'>Medium</option>
+    <option value='l'>Large</option>
+  </select>
+</div>
+
+<div class='form-row'>
+  <label for='abstract'>Abstract</label>
+  <textarea id='abstract' name='abstract'></textarea>
+  <div class='instructions'>Describe your talk in 500 words or less</div>
+</div>
+
+<div class='form-row'>
+  <label class='checkbox-label' for='available'>
+  <input id='available'
+         name='available'
+         type='checkbox'
+         value='is-available'/>
+  <span>This is my first form!</span>
+  </label>
+</div>
+
+    <fieldset class='legacy-form-row'>
+      <legend>Type of Talk</legend>
+      <input id='talk-type-1'
+             name='talk-type'
+             type='radio'
+             value='main-stage' />
+      <label for='talk-type-1' class='radio-label'>Main Stage</label>
+      <input id='talk-type-2'
+             name='talk-type'
+             type='radio'
+             value='workshop'
+             checked />
+      <label for='talk-type-2' class='radio-label'>Workshop</label>
+    </fieldset>
+     <input type="submit" value="Enviar" id=boton>
+
+
+  </body>
+
+</html>

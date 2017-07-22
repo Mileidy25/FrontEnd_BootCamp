@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+.page {
+  width: 900px;
+  margin: 0 auto;
+  height: 600px;
+}
+
+.menu {
+  height: 100px;
+  background-color: #0b9dad;
+  width: 100%;
+}
+
+.sidebar {
+  background-color: #40048e;
+  display: inline-block;
+  height: 100%;
+  width: 30%;
+  overflow:hidden;
+}
+
+.content {
+  background-color: #9e0c5c;
+  display: inline-block;
+  height: 100%;
+  width: 70%;
+  overflow: auto;
+}
+
+.article-image {
+  float: left;
+  width: 45%;
+  margin: 20px;
+
+}
+
+p {
+  margin: 20px;
+}
+
+.footer {
+  height: auto;
+  background-color: #0b9dad;
+  width: 100%;
+}
+
+.column {
+  background-color: #e08787;
+  display: inline-block;
+  height: 100px;
+  width: 31%;
+  margin: 10px 1%;
+}

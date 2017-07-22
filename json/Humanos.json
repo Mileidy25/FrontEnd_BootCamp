@@ -1,0 +1,40 @@
+{"Humanos":
+ [
+   {
+     "Name":"Felipe",
+     "Age": "24",
+     "Pets": ["Cat", "Dog"],
+     "Friends": true,
+     "Friend-list":["Edwin","Mariana"]
+     },
+
+    {
+      "Name":"Celeste",
+      "Age": "23",
+      "Pets": ["Cat"],
+      "Friends": false},
+
+    {
+      "Name":"Samuel",
+      "Age": "20",
+      "Pets": ["Cat", "Dog" "Fish"],
+      "Friends": true,
+      "Friend-list": ["Andrés", "Julian","Mariano"]
+    },
+
+    {
+      "Name":"Johana",
+      "Age": "26",
+      "Pets": ["Cat", "Fish"],
+      "Friends": true,
+      "Friend-list": ["Cindy", "Tatiana","Maribel"]
+    },
+
+    {
+      "Name":"Luis",
+      "Age": "28",
+      "Pets": ["Dog"],
+      "Friends": false
+    }
+   ]
+  }

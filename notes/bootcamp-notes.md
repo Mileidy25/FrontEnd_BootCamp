@@ -1000,10 +1000,49 @@ Es lo como un Spread pero alrevés, es decir, que me coge una lista de argumento
 
 ### Destructuring
 
+La sintaxis de **Destructuring** assignment es una expresión de *JavaScript* que hace posible la extracción de datos de arreglos u objetos usando una sintaxis que equivale a la construcción de arreglos y objetos literales.
 
 <hr/>
 
 ## 24 de Julio (Día Veintidos)
+
+### CallBack
+
+Este es un concepto importante al momento de escribir código. Es simple: llamo a una funcion y le envío por parámetro otra función **(un callback)** esperando que la función que llamé se encargue de ejecutar esa función callback.
+
+* Ejemplo de CallBack
+
+```bash
+function sumar( a, sumarAyB) {
+  var b = 5;
+  console.log("paso 2");
+  sumeAyB(b);
+}
+
+var a = 1;
+function sumeAyB (b) {
+  console.log ("paso 3");
+  console.log (a + b);
+}
+
+console.log("paso 1");
+sumar(1, sumarAyB);
+```
+* Ejemplo de un map
+
+```bash
+var x = [ {name: "sergio"},"sergio","myleidy","luisa"];
+
+function mayusculas(elemento) {
+  if (typeof elemento == "object") {
+   return elemento.name.toUpperCase();
+  }
+  return elemento.toUpperCase();
+}
+var y = x.map(mayusculas)
+
+console.log(y);
+```
 
 <hr/>
 

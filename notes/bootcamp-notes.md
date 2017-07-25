@@ -1061,7 +1061,7 @@ p.then(function (texto))
 
 **HTTP/2** *(Hypertext Transfer Protocol versión 2)* es un nuevo protocolo de red utilizado por la World Wide Web que llega con el objetivo de actualizar el protocolo **HTTP/1.1**, con el que es compatible. **HTTP 2.0** no modifica la semántica de aplicación de Http.
 
-![http](.\ssr\http.jpg)
+![http](./ssr/http.jpg)
 
 * Get
 * Post

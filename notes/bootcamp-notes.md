@@ -1043,8 +1043,51 @@ var y = x.map(mayusculas)
 
 console.log(y);
 ```
+##  Promise
+
+El objeto Promise **(Promesa)** es usado para computaciones asíncronas. Una promesa representa un valor que puede estar disponible ahora, en el futuro, o nunca.
+
+```bash
+const p = new Promise(function (resolve, reject) {
+  resolve("texto");
+});
+
+p.then(function (texto))
+ console.log
+   return texto
+```
+
+## HTTP, HTTPS, HTTP/2
+
+**HTTP/2** *(Hypertext Transfer Protocol versión 2)* es un nuevo protocolo de red utilizado por la World Wide Web que llega con el objetivo de actualizar el protocolo **HTTP/1.1**, con el que es compatible. **HTTP 2.0** no modifica la semántica de aplicación de Http.
+
+![http](.\ssr\http.jpg)
+
+* Get
+* Post
+* Put
+* Delete
+
+**Request** *(Paquetes)*
+
+* Url
+* Headers - headers object
+* Mode - cors, same origin
+* Redirect
+* Cache - cache mode
+
+**Responsive**
+
+* Url
+* Headers
+* Type - cors
+* Status - status code
+* OK
+* Data
 
 <hr/>
+
+## 25 de Julio (Día Veintitres)
 
 <!--- Lista de páginas --->
 

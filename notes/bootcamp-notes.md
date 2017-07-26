@@ -1061,12 +1061,12 @@ p.then(function (texto))
 
 **HTTP/2** *(Hypertext Transfer Protocol versión 2)* es un nuevo protocolo de red utilizado por la World Wide Web que llega con el objetivo de actualizar el protocolo **HTTP/1.1**, con el que es compatible. **HTTP 2.0** no modifica la semántica de aplicación de Http.
 
-![http](./ssr/http.jpg)
-
 * Get
 * Post
 * Put
 * Delete
+
+![http](./ssr/http.jpg)
 
 **Request** *(Paquetes)*
 
@@ -1088,6 +1088,56 @@ p.then(function (texto))
 <hr/>
 
 ## 25 de Julio (Día Veintitres)
+
+### LocalStorage
+
+Tres formas de almacenar datos en el servidor; **LocalStorage, SeccionStorage** y **Cookies**
+
+Una especie de mini base de datos que funciona con clave de valor, **(almacenamiento propio)** que solo guarda como un **"String"** que permiten almacenar datos en nuestro navegador web. De manera muy similar a como lo hacen las cookies. **LocalStorage:** Guarda información que permanecerá almacenada por tiempo indefinido; sin importar que el navegador se cierre.
+
+ * **Parse:** Convertir de un formato a otro. Se queda como una array ["1", "2", "3"] **--->** [1, 2, 3]
+ * **stringify:** Se escribe igual pero te lo devuleve con una string ["1", "2", "3"] **--->** "["1", "2", "3"]"
+
+**Ejemplo:**
+
+```bash
+
+const a = 1;
+  localStorage.setItem('key', a);
+   localStorage.getItem('key'); // 1
+
+//Establecer objetos
+
+//malo (lo que no se debe hacer)
+
+const pets = ["dog", "cat", "hamster"];
+  localStorage.setItem('pets', pets);
+  localStorage.getItem('pets'); // "dog, cat, hamster"
+
+//Bueno (Como se debe hacer)
+
+  localStorage.setItem('pets', JSON.stringify(pets));
+  const s = localStorage.getItem('pets') // "[dog, cat, hamster]"
+  JSON.parse(s); // ["dog", "cat", "hamster"]
+
+localStorage.removeItem('pets');
+
+localStorage.clear();
+```
+* **SeccionStorage:** Persiste un área de almacenamiento durante la sesión de la página. Úselo cuando necesite almacenar algunos datos temporalmente.
+* **Cookies:** Igual que el localStorage guardar información en una base de datos. Archivo pequeño que envía un servidor.
+
+### Servidor
+
+* **Assets:** todo lo diferente al **HTML, CSS** y **JS**, como lo es imagenés, logos e ilustraciones
+* **CDN:** todo lo que tiene tu página para mostrar (es como una nube que permite acceder más rápidamente)
+* **Debugger:** Herramienta que permite la ejecución controlada de un código, para seguir cada instrucción ejecutada y localizar así bugs o errores.
+
+<hr/>
+
+## 26 de Julio (Día Veinticuatro)
+
+<hr/>
 
 <!--- Lista de páginas --->
 

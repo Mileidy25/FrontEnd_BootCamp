@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f0f6ff;
+  font-family: 'amatic', 'sans-serif';
+}
+
+.carousel-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.carousel-grid .carousel-item {
+  cursor: pointer;
+}
+
+.carousel-item {
+  border: 10px solid white;
+  border-radius: 2px;
+  margin:50px 20px;
+  width: 350px;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+  cursor: pointer;
+}
+
+.carousel-item img {
+  display: block;
+  width: 100%;
+  user-select: none;
+}
+.carousel-item figcaption {
+  height: 70px;
+  padding: 10px 0;
+  font-size: 27px;
+  background-color: white;
+}
+
+.carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.carousel-prev,
+.carousel-next {
+  font-size: 40px;
+  }
+
+.carousel-next{
+  float: right;
+}
+
+.carousel-controls {
+  width: 33%;
+  position: absolute;
+  min-width: 320px;
+}
+
+.carousel-content .carousel-item {
+  display: none;
+}
+
+.carousel-content .carousel-item:first-child {
+  display: block;
+}
+
+.carousel-content .carousel-item figcaption {
+  position: relative;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0,60;
+  background: white;
+  color: black:inherit;
+  padding-left: 10px;
+}
+
+.carousel::before {
+  z-index: 1;
+  position: fixed;
+}
+
+.hidden{
+  display: none;
+}

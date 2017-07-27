@@ -1182,4 +1182,4 @@ Es un aministrador de paquetes es el manejador  por defecto para **Node.js**, un
 [Flexbox]: http://flexboxfroggy.com/
 [Variable]: about:blank
 [Formulario]:
-[Semver]:http://semver.org/
+[Semver]: http://semver.org/

@@ -1137,8 +1137,42 @@ localStorage.clear();
 
 ## 26 de Julio (Día Veinticuatro)
 
+### Módulos en JavaScript!
+
+* **¿Qué es Módulo?**
+Llamamos módulo en JavaScript a un código que de alguna manera es **“auto contenido”** y que expone una interfaz pública para ser usada.
+
+* **CommonJS**
+Es un sistema de módulos **síncrono:** es decir la carga de módulos es un proceso síncrono que empieza por un módulo inicial.
+
+### NPM (Node Package Manager)
+
+Es un aministrador de paquetes es el manejador  por defecto para **Node.js**, un entorno de ejecución para **JavaScript**.
+
+* agregar **Package.json:** Debe estar en la raíz del proyecto, va a quedar reflejada la configuración del proyecto de **Node** tales como:
+  * Nombre
+  * Versión.
+  * Descripción
+  * Palabras claves
+  * Licencias
+  * Links
+   * Página principal
+   * Bugs (errores)
+   * Repositorio
+  * Mantenedores
+   * Autor...
+
+* **Vesionamiento**
+ * Tipo de documentación según versiones. Una **"versión"** se describe en la especificación **v2.0.0**. El carácter "=" o "v" principal se quita y se ignora.
+
+![página semver](./ssr/semver.jpg)
+[Semver]
+
 <hr/>
 
+## 27 de Julio (Día Veinticinco)
+
+<hr/>
 <!--- Lista de páginas --->
 
 [Webtask]:https://webtask.io/
@@ -1147,4 +1181,5 @@ localStorage.clear();
 [Selectores]: https://flukeout.github.io/
 [Flexbox]: http://flexboxfroggy.com/
 [Variable]: about:blank
-[Formulario]: file:///C:/Users/Felipe/Desktop/code/frontend_bootcamp/forms/forms.html
+[Formulario]:
+[Semver]:http://semver.org/

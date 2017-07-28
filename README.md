@@ -15,7 +15,7 @@ Códigos realizados en el BootCamp
 
 * #### Markdown
  * [Notas del BootCamp](/notes/bootcamp-notes.md)
- * [Hoja de Vida](curriculum-vitae.md "Curriculum Vitae")
+ * [Hoja de Vida](https://github.com/Mileidy25/curriculum_vitae/blob/master/curriculum_markdown/curriculum-vitae.md)
 
 * #### HTML
  * [Hoja de vida]()

@@ -1172,7 +1172,37 @@ Es un aministrador de paquetes es el manejador  por defecto para **Node.js**, un
 
 ## 27 de Julio (Día Veinticinco)
 
+![carusel](/git/carrusel.gif)
+[Coruesel]
+
+![carusel-html-css](/ssr/carusel.jpg)
+
 <hr/>
+
+## 28 de Julio (Día Veintiseis)
+
+### Animaciones 3D CSS
+
+En el plan 3D tenemos tres ejes **X, Y, Z**
+[como trabajar con 3D](https://desandro.github.io/3dtransforms)
+
+![cubos-3D](/ssr/animation.jpg)
+[Cubo-3D]
+
+* **Perspective:** Esta propiedad sirve para darle la oportunidad al padre y poder visualizar los cambios en el eje **Z**
+
+* **Perspective-origin:** Lo podemos decir desde que lugar queremos ver esa perpectiva, si desde el top, down, rigth, left, etc..
+
+* **Transform-style-3d:** Esta propiedad  se le agrega el contenedor padre que se le aplique una transformación para que sus hijos conserven sus transformaciosnes propios.
+
+![cubo-3D](/git/cubo.gif)
+
+<hr/>
+
+## 28 de Julio (Día Veintisiete)
+
+<hr/>
+
 <!--- Lista de páginas --->
 
 [Webtask]:https://webtask.io/
@@ -1183,3 +1213,5 @@ Es un aministrador de paquetes es el manejador  por defecto para **Node.js**, un
 [Variable]: about:blank
 [Formulario]:
 [Semver]: http://semver.org/
+[Cubo-3D]: https://codepen.io/Mileidy17/pen/QMjeWy
+[Coruesel]: https://codepen.io/Mileidy17/pen/xLwvEj

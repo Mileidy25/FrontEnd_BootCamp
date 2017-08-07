@@ -10,9 +10,10 @@ Códigos realizados en el BootCamp
 
 
 * #### WebTask
- - <a>
-    img width=10% src="/srr/webtask.jpg">
-   </a>
+
+ <a>
+  <img width=10% src="/srr/webtask.jpg">
+  </a>
  [Pagina Web en Parejas]("Web Page")<!--Falta relizar la pagina-->
 
 

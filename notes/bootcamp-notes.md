@@ -1175,6 +1175,41 @@ Es un aministrador de paquetes es el manejador  por defecto para **Node.js**, un
 ![carusel](/git/carrusel.gif)
 [Coruesel]
 
+```bash
+ <div class="wrapper">
+ <div class="cuadrito"></div>
+ <div class="triangulo"></div>-->
+ <div class="corazon"></div>
+
+<div class="corazon beat"></div>
+ <div class="corazon beat animate--beat"></div>
+</div>
+```
+**CSS**
+```bash
+    .corazon {
+      margin-top: 50px;
+      margin-left: 50px;
+      height: 100px;
+      width: 100px;
+      background: red;
+      transform: rotate(45deg);
+      position: relative;
+      }
+```
+```bash
+      .corazon::after {
+        content: '';
+        width: 100px;
+        height: 100px;
+        background: red;
+        position: absolute;
+        top: -50px;
+        left: 0;
+        border-radius: 50px;
+        }
+```
+
 ![carusel-html-css](/ssr/carusel.jpg)
 
 <hr/>
@@ -1199,7 +1234,184 @@ En el plan 3D tenemos tres ejes **X, Y, Z**
 
 <hr/>
 
-## 28 de Julio (Día Veintisiete)
+## 29 de Julio (Día Veintisiete)
+
+Nuestro primer tinder de perros
+
+<hr/>
+
+## 31 de Julio (Día Veintiocho)
+
+### Promise (Promesas)
+Una **Promesa** es un proxy para un valor no necesariamente conocido en el momento que es creada la promesa.
+
+* **pendiente (pending):** estado inicial, no cumplida o rechazada.
+* **cumplida (fulfilled):** significa que la operación se completó satisfactoriamente.
+* **rechazada (rejected):** significa que la operación falló.
+
+  * premise.all: Devuelve una de dos promesas: una que se cumple cuando todas las promesas en el argumento iterable han sido cumplidas, o una que se rechaza tan pronto como una de las promesas del argumento iterable es rechazada.
+  * premise.race: Devuelve una promesa que se cumple o rechaza tan pronto como una de las promesas del iterable se cumple o rechaza, con el valor o razón de esa promesa.
+  * premise.resolve: Devuelve un objeto Promise que es resuelto con el valor dado. Si el valor es un thenable **(p.ej. tiene un método then)**, la promesa devuelta **"seguirá"** este thenable, adoptando su eventual estado; de lo contrario la promesa devuelta será cumplida con el valor.
+
+### WebPack
+
+En lugar de escribir todo como comandos, podemos tener un fichero `webpack.config.js` donde escribamos toda la configuración que necesitemos.
+
+![webpack](/ssr/webtack.jpg)
+[WebPack]
+
+Para poder utilizar Webpack en tu proyecto web debes tener instalado `Node.js` en tu equipo y con el comando `npm install -g` webpack tendrás Webpack instalado de forma global en tu equipo **(También puedes instalarlo a nivel de proyecto y correrlo con NPM scripts)**.
+
+```bash
+  module.exports = {
+   entry: './app.js',
+    output: {
+    filename: 'bundle.js'
+  }
+}
+```
+  * webpack.config.js
+
+```bash
+<html>
+  <head>
+    ...
+  </head>
+  <body>
+    ...
+    <script src="bundle.js"></script>
+  </body>
+</html>
+```
+  * page.html
+
+<hr/>
+
+## 01 de Agosto (Día Veintinueve)
+
+**Historia de usuario**. Descripción de una funcionalidad que debe incorporar un sistema de software, y cuya implementación aporta valor al cliente. La estructura de una historia de usuario está formada por: Nombre breve y descriptivo.
+
+![trello](/ssr/trello.jpg)
+[Trello]
+
+<hr/>
+
+## 02 de Agosto (Día Treinta)
+
+### Página Web
+
+**Página web** o **página electrónica**, página digital, o ciberpágina​​ es un documento o información electrónica capaz de contener texto, sonido, vídeo, programas, enlaces, imágenes, y muchas otras cosas, adaptada para la llamada **World Wide Web (WWW)** y que puede ser accedida mediante un navegador web.
+
+### Applicaciones Web
+
+En la ingeniería de software se denomina aplicación web a aquellas herramientas que los usuarios pueden utilizar accediendo a un servidor web a través de Internet o de una intranet mediante un navegador.
+
+**Ejemplo**
+ * Google
+ * Gmail (correo)
+ * Facebook
+ * Twitter
+
+ ### Virtual DOM
+
+ * Instalar react
+
+ > mkdir Nombre
+ >> npm install -g create-react-app
+ >>> create-react-app my-app
+ >>>> cd my-app/
+ >>>>> npm start
+
+<hr/>
+
+## 03 de Agosto (Día Treinta y uno)
+
+### E-commerce
+
+El **e-commerce** consiste en la distribución, venta, compra, marketing y suministro de información de productos o servicios a través de Internet. Originalmente el término se aplicaba a la realización de transacciones mediante medios electrónicos, como por ejemplo el intercambio electrónico de datos.
+
+### Crear Cards en 'semantic-ui-react'
+
+Reacción de interfaz de usuario semántica es la integración oficial de React para la interfaz de usuario de Semantic.
+  * JQuery Gratis
+  * API declarativa
+  * Aumento
+  * Accesorios taquigráficos
+  * Sub Componentes
+  * Estado controlado automáticamente
+
+```bash
+import React, { Component } from 'react';
+import { Card, Container, Icon, Image } from 'semantic-ui-react';
+
+  class App extends Component {
+      render() {
+        const cards = [
+          {
+            image:
+            title: "Felipe",
+            date: new Date(),
+            description: 'I love music',
+            friends: 25
+          },
+        ]
+```
+```bash
+return (
+        <Container text>
+          {cards.map(item => (
+            <Card>
+              <Image src='https://...' />
+              <Card.Content>
+                <Card.Header>
+                  {item.title}
+                </Card.Header>
+                <Card.Meta>
+                  <span className='date'>
+                  {item.date.toString()}
+                  </span>
+                </Card.Meta>
+                <Card.Description>
+                  {item.description}
+                </Card.Description>
+              </Card.Content>
+              <Card.Content extra>
+                <a>
+                  <Icon name='user' />
+                  {item.friends} Friends
+                </a>
+              </Card.Content>
+            </Card>
+          ))}
+        </Container>
+      );
+    }
+}
+
+export default App;
+```
+<hr/>
+
+## 04 de Agosto (Día Treinta y dos)
+
+### Trello (Tableros)
+
+Es un gestor de tareas que permite el trabajo de forma colaborativa mediante tableros **(board)** compuestos de columnas **(llamadas listas)** que representan distintos estados. Se basa en el método Kanban para gestión de proyectos, con tarjetas que viajan por diferentes listas en función de su estado.
+
+### Wireframes
+
+Un **wireframe** o **prototipo** no es más que un boceto donde se representa visualmente, de una forma muy sencilla y esquemática la estructura de una página web. El objetivo de estos es definir el contenido y la posición de los diversos bloques de tu web. Esto incluye **menús de navegación**, **bloques de contenido**, etc…
+
+### Mock ups
+
+Los **Mock Ups** son fotomontajes que permiten a los diseñadores gráficos y web mostrar al cliente cómo quedaran sus diseños. Tanto si es un logotipo, como una tarjeta de visita, un folleto o una página web, existen **mock ups** para todos los gustos y colores.
+
+![trello](/ssr/trello-pro.jpg)
+[Trello-Project]
+
+<hr/>
+
+## 05 de Agosto (Día Treinta y tres)
 
 <hr/>
 
@@ -1215,3 +1427,6 @@ En el plan 3D tenemos tres ejes **X, Y, Z**
 [Semver]: http://semver.org/
 [Cubo-3D]: https://codepen.io/Mileidy17/pen/QMjeWy
 [Coruesel]: https://codepen.io/Mileidy17/pen/xLwvEj
+[WebPack]: https://webpack.js.org/
+[Trello]: https://trello.com/
+[Trello-Project]: https://trello.com/b/ipJpRov7/ecommerce-project

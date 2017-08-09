@@ -42,7 +42,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 
 <p align="left">
   <a>
-    <img width=10% src="/srr/webtask.jpg">
+    <img width=3% src="/srr/webtask.jpg">
   </a>
   <--Falta relizar la pagina-->
 </p>

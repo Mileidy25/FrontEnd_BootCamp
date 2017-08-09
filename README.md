@@ -7,8 +7,9 @@
 <center>
 <h1>Front-End BootCamp</h1>
 
-<h3>¡Holas!</h3>
-bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp, viendo un poco do Front-End
+<h3>¡Hello!</h3>
+
+Welcome, here you will find codes made in the BootCamp, seeing a bit of the Front-End
 
 
 <h2>Seen in class!</h2>
@@ -62,6 +63,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
   <a>
     <img width=7% src="/srr/js.jpg">
  </a>
+ Here, you will find the exercises done in class. A little JavaScript and Node.
 </p>
 
 

@@ -54,7 +54,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 
 <p align="left">
   <a>
-    <img width=10% src="/srr/currculum.jpg">
+    <img width=10% src="/srr/curriculum.jpg">
  </a>
 </p>
 

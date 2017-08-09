@@ -16,12 +16,10 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 
 <a>
   <p align="left">
-  <img width=10% src="/srr/notes.jpg">
+  <img width=7% src="/srr/notes.jpg">
     Aquí, encontrarás las siguientes:
 </a>
 
-
-<p align="left">
  <br/>
 * Bootstrap <br/>
 * carousel <br/>
@@ -32,9 +30,6 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 *  [Forms](/forms) <br/>
 * [Notes del BootCamp](/notes/bootcamp-notes.md) <br
 * [Animaciones 3D](https://github.com/Mileidy25/frontend_bootcamp/tree/master/module)
-</p>
-
-
 
 <center>
 <h2>Page in pairs "WebTask"</h2>
@@ -42,7 +37,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 
 <p align="left">
   <a>
-    <img width=3% src="/srr/webtask.jpg">
+    <img width=7% src="/srr/webtask.jpg">
   </a>
   <--Falta relizar la pagina-->
 </p>
@@ -54,7 +49,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 
 <p align="left">
   <a>
-    <img width=10% src="/srr/curriculum.jpg">
+    <img width=7% src="/srr/curriculum.jpg">
  </a>
 </p>
 
@@ -67,7 +62,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 
 <p align="left">
   <a>
-    <img width=10% src="/srr/js.jpg">
+    <img width=7% src="/srr/js.jpg">
  </a>
 </p>
 

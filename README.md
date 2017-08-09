@@ -20,16 +20,14 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
     Aquí, encontrarás las siguientes:
 </a>
 
- <br/>
-* Bootstrap <br/>
-* carousel <br/>
-* Dog-tinger <br/>
-* Forms <br/>
-* Json <br/>
-* [Module](https://github.com/Mileidy25/frontend_bootcamp/tree/master/module) <br/>
-*  [Forms](/forms) <br/>
-* [Notes del BootCamp](/notes/bootcamp-notes.md) <br
-* [Animaciones 3D](https://github.com/Mileidy25/frontend_bootcamp/tree/master/module)
+* [Notes del BootCamp](/notes/bootcamp-notes.md)
+* [My Forms](/forms)
+* [Json 'humans']()
+* [Carousel]()
+* [Bootstrap]()
+* [Module]()
+* [Tinder-Dog]()
+* [Animaciones 3D]()
 
 <center>
 <h2>Page in pairs "WebTask"</h2>

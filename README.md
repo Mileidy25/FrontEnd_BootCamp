@@ -4,29 +4,77 @@
   </a>
 </p>
 
-# Front-End BootCamp
+<center>
+<h1>Front-End BootCamp</h1>
 
-Códigos realizados en el BootCamp
+<h3>¡Holas!</h3>
+bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp, viendo un poco do Front-End
 
 
-* #### WebTask
+<h2>Seen in class!</h2>
+</center>
 
- <a>
-  <img width=10% src="/srr/webtask.jpg">
+<a>
+  <p align="left">
+  <img width=10% src="/srr/notes.jpg">
+    Aquí, encontrarás las siguientes:
+</a>
+
+<p align="left">
+ <br/>
+* Bootstrap <br/>
+* carousel <br/>
+* Dog-tinger <br/>
+* Forms <br/>
+* Json <br/>
+* [Module](https://github.com/Mileidy25/frontend_bootcamp/tree/master/module) <br/>
+*  [Forms](/forms) <br/>
+* [Notes del BootCamp](/notes/bootcamp-notes.md) <br
+* [Animaciones 3D](https://github.com/Mileidy25/frontend_bootcamp/tree/master/module)
+</p>
+
+
+
+<center>
+<h2>Page in pairs "WebTask"</h2>
+</center>
+
+<p align="left">
+  <a>
+    <img width=10% src="/srr/webtask.jpg">
   </a>
- [Pagina Web en Parejas]("Web Page")<!--Falta relizar la pagina-->
+  <--Falta relizar la pagina-->
+</p>
 
 
-* #### Markdown
- - [Notas del BootCamp](/notes/bootcamp-notes.md)
- - [Hoja de Vida](https://github.com/Mileidy25/curriculum_vitae/blob/master/curriculum_markdown/curriculum-vitae.md)
+<center>
+<h2>My Firs Curriculum</h2>
+</center>
 
-* #### HTML
- - [Hoja de vida]()
+<p align="left">
+  <a>
+    <img width=10% src="/srr/curriculum.jpg">
+ </a>
+</p>
 
-* #### JS
+* [Curriculum-Vitae]()
+* [Curriculum-Markdown](/curriculum_markdown/curriculum-vitae.md)
 
-* #### JQuery
+<center>
+<h2>Exercises of JavaScript</h2>
+</center>
+
+<p align="left">
+  <a>
+    <img width=10% src="/srr/js.jpg">
+ </a>
+</p>
+
+* Javascripting
+* Functional-Javascript
+* Count
+* Learnyounode
+* Expressworks
 
  <br />
  <br />
@@ -34,8 +82,9 @@ Códigos realizados en el BootCamp
  <br />
  <br />
 
- <center>
+
    <footer>
+   Espero que se diviertan...
          <a href="https://github.com/Mileidy25">Mileidy Johana Galván!</a>
+
    </footer>
-   </center>

@@ -20,6 +20,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
     Aquí, encontrarás las siguientes:
 </a>
 
+
 <p align="left">
  <br/>
 * Bootstrap <br/>
@@ -53,7 +54,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 
 <p align="left">
   <a>
-    <img width=10% src="/srr/curriculum.jpg">
+    <img width=10% src="/srr/currculum.jpg">
  </a>
 </p>
 
@@ -69,6 +70,7 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
     <img width=10% src="/srr/js.jpg">
  </a>
 </p>
+
 
 * Javascripting
 * Functional-Javascript

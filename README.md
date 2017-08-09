@@ -65,11 +65,11 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 </p>
 
 
-* Javascripting
-* Functional-Javascript
-* Count
-* Learnyounode
-* Expressworks
+* [Javascripting]()
+* [Functional-Javascript]()
+* [Count]()
+* [Learnyounode]()
+* [Expressworks]()
 
  <br />
  <br />
@@ -80,6 +80,8 @@ bienvenidos, aquí encontrará códigos realizados se realizaron en el BootCamp,
 
    <footer>
    Espero que se diviertan...
+   <br/>
+
          <a href="https://github.com/Mileidy25">Mileidy Johana Galván!</a>
 
    </footer>

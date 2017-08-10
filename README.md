@@ -22,13 +22,14 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 </a>
 
 * [Notes del BootCamp](/notes/bootcamp-notes.md)
-* [My Forms](/forms)
+* [My Forms](https://github.com/Mileidy25/frontend_bootcamp/tree/master/forms)
+* [Styles](https://github.com/Mileidy25/frontend_bootcamp/tree/master/style)
 * [Json 'humans']()
-* [Carousel]()
-* [Bootstrap]()
-* [Module]()
-* [Tinder-Dog]()
-* [Animaciones 3D]()
+* [Carousel](https://github.com/Mileidy25/frontend_bootcamp/tree/master/carousel)
+* [Bootstrap](https://github.com/Mileidy25/frontend_bootcamp/tree/master/bootstrap)
+* [Module](https://github.com/Mileidy25/frontend_bootcamp/tree/master/module)
+* [Tinder-Dog](https://github.com/Mileidy25/frontend_bootcamp/tree/master/dog_tinder)
+* [Animaciones 3D](https://codepen.io/Mileidy17/)
 
 <center>
 <h2>Page in pairs "WebTask"</h2>
@@ -60,10 +61,15 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 </center>
 
 <p align="left">
+
+ Here, you will find the exercises done in class. A little JavaScript and Node.
+  <br/>
+   <br/>
   <a>
     <img width=7% src="/srr/js.jpg">
  </a>
- Here, you will find the exercises done in class. A little JavaScript and Node.
+
+
 </p>
 
 

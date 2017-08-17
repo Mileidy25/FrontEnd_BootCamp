@@ -18,7 +18,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 
 <a>
   <p align="left">
-  <img width=7% src="/srr/notes.jpg">
+  <img width=2% src="/srr/notes.jpg">
     Here you will find the following information:
 </a>
 
@@ -38,7 +38,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 
 <p align="left">
   <a>
-    <img width=7% src="/srr/webtask.jpg">
+    <img width=2% src="/srr/webtask.jpg">
   </a>
   <--Falta relizar la pagina-->
 </p>
@@ -50,7 +50,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 
 <p align="left">
   <a>
-    <img width=7% src="/srr/curriculum.jpg">
+    <img width=2% src="/srr/curriculum.jpg">
     Here you will find my curriculum vitae, made in mardown and bootstrap
  </a>
 </p>
@@ -68,7 +68,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
   <br/>
    <br/>
   <a>
-    <img width=7% src="/srr/js.jpg">
+    <img width=2% src="/srr/js.jpg">
  </a>
 
 

@@ -2,62 +2,17 @@ body {
   margin: 0;
   padding: 0;
 }
-.nav{
-  padding: 10px 0 10px;
-}
-
-.container{
-  width: 600px;
-  margin: 0 auto;
-  padding: 68px 0;
-  border-radius: 13px;
-  background-color: black;
-}
-
-.cont-arrow {
-  position: absolute;
-  right: 21px;
-  top: 24px;
-}
-
- .cont-arrow a{
-   margin: 0 5px 0 0;
-   background: white;
-   border-radius: 50%;
-   width: 60px;
-   height: 60px;
-   justify-content: center;
-   display: flex;
-   align-items: center;
-   text-decoration: none;
-   font-size: 30px;
- }
 
 .row-header{
-  background: #ff0051;
-  margin: 0 auto;
-  width: 520px;
-  text-align: center;
-  border-radius: 13px;
-  position: relative;
-  padding: 6px 0;
-  font-family: 'Fjalla One', sans-serif;
+  display: flex;
+  justify-content: center;
 }
-
-
-  .row-header p {
-    text-align: center;
-    padding: 3px;
-    font-size: 30px;
-    color: white;
-    }
 
 .cont-card{
   width: 480px;
-  margin: 0 auto;
-  border-top-left-radius: 13px;
-  border-top-right-radius: 13px;
-  background: white;
+  background: blue;
+  margin: auto;
+  border-radius: 12px;
 }
 
 .cont-img-dog img{
@@ -67,39 +22,9 @@ body {
 }
 
 .cont-desc{
-  padding: 10px 15px;
-  font-family: 'Lobster', cursive;
-  text-align: left;
-  border-bottom-left-radius: 13px;
-  border-bottom-right-radius: 13px;
+  padding: 21px 20px;
 }
 
 .cont-btns {
-  display: flex;
-  justify-content: center;
-  margin: 20px
+
 }
-.cont-btns a{
-  margin: 30px 15px 0 0;
-  background: white;
-  border-radius: 50%;
-  width: 70px;
-  height: 70px;
-  justify-content: center;
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  font-size: 35px;
-}
-
- .like {
-   color: red;
- }
-
- .dislike{
-   color: cornflowerblue;
- }
-
- .return{
-   color: black;
- }

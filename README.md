@@ -5,20 +5,21 @@
 </p>
 
 <center>
-<h1>Front-End BootCamp</h1>
+<h1> :computer: Front-End BootCamp :computer: </h1>
 
-<h3>¡Hello!</h3>
+
+<h3>¡Hello! :wave: </h3>
 
 Welcome, here you will find codes made in the BootCamp, seeing a bit of the Front-End
 
 
-<h2>Seen in class!</h2>
+<h2> :books: Seen in class! :books: </h2>
 </center>
 
 <a>
   <p align="left">
   <img width=7% src="/srr/notes.jpg">
-    Aquí, encontrarás las siguientes:
+    Here you will find the following information:
 </a>
 
 * [Notes del BootCamp](/notes/bootcamp-notes.md)
@@ -32,7 +33,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 * [Animaciones 3D](https://codepen.io/Mileidy17/)
 
 <center>
-<h2>Page in pairs "WebTask"</h2>
+<h2> :book: Page in pairs "WebTask" :book: </h2>
 </center>
 
 <p align="left">
@@ -44,12 +45,13 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 
 
 <center>
-<h2>My Firs Curriculum</h2>
+<h2> :page_facing_up: My Firs Curriculum :page_facing_up: </h2>
 </center>
 
 <p align="left">
   <a>
     <img width=7% src="/srr/curriculum.jpg">
+    Here you will find my curriculum vitae, made in mardown and bootstrap
  </a>
 </p>
 
@@ -57,7 +59,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 * [Curriculum-Markdown](/curriculum_markdown/curriculum-vitae.md)
 
 <center>
-<h2>Exercises of JavaScript</h2>
+<h2> :open_file_folder: Exercises of JavaScript :open_file_folder: </h2>
 </center>
 
 <p align="left">
@@ -87,9 +89,9 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 
 
    <footer>
-   Espero que se diviertan...
+   I hope you have fun!...
    <br/>
 
-         <a href="https://github.com/Mileidy25">Mileidy Johana Galván!</a>
+         <a href="https://github.com/Mileidy25">Mileidy Johana Galván! :octocat: </a>
 
    </footer>

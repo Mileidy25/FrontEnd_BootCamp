@@ -84,14 +84,12 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
  <br />
  <br />
  <br />
- <br />
- <br />
 
-
+ 
    <footer>
    I hope you have fun!...
    <br/>
-
-         <a href="https://github.com/Mileidy25">Mileidy Johana Galván!</a> :octocat:
+   <br/>
+:octocat: Mileidy Johana Galván A.
 
    </footer>

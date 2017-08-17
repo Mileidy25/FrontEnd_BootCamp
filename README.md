@@ -92,6 +92,6 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
    I hope you have fun!...
    <br/>
 
-         <a href="https://github.com/Mileidy25">Mileidy Johana Galván! :octocat: </a>
+         <a href="https://github.com/Mileidy25">Mileidy Johana Galván!</a> :octocat:
 
    </footer>

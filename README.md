@@ -25,7 +25,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 * [Notes del BootCamp](/notes/bootcamp-notes.md)
 * [My Forms](https://github.com/Mileidy25/frontend_bootcamp/tree/master/forms)
 * [Styles](https://github.com/Mileidy25/frontend_bootcamp/tree/master/style)
-* [Json 'humans']()
+* [Json 'humans'](https://github.com/Mileidy25/frontend_bootcamp/blob/master/json/Humanos.json)
 * [Carousel](https://github.com/Mileidy25/frontend_bootcamp/tree/master/carousel)
 * [Bootstrap](https://github.com/Mileidy25/frontend_bootcamp/tree/master/bootstrap)
 * [Module](https://github.com/Mileidy25/frontend_bootcamp/tree/master/module)
@@ -64,32 +64,32 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 
 <p align="left">
 
- Here, you will find the exercises done in class. A little JavaScript and Node.
   <br/>
    <br/>
   <a>
     <img width=3% src="/srr/js.jpg">
+     Here, you will find the exercises done in class. A little JavaScript and Node.
  </a>
 
 
 </p>
 
 
-* [Javascripting]()
-* [Functional-Javascript]()
+* [Javascripting](https://github.com/Mileidy25/javascript/tree/master/javascripting)
+* [Functional-Javascript](https://github.com/Mileidy25/javascript/blob/master/functional-javascript/program.js)
 * [Count]()
-* [Learnyounode]()
+* [Learnyounode](https://github.com/Mileidy25/javascript/tree/master/learnyounode)
 * [Expressworks]()
 
  <br />
  <br />
  <br />
 
- 
+
    <footer>
    I hope you have fun!...
    <br/>
    <br/>
-:octocat: Mileidy Johana Galván A.
+ Mileidy Johana Galván A. :octocat:
 
    </footer>

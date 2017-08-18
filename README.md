@@ -8,9 +8,9 @@
 <h1> :computer: Front-End BootCamp :computer: </h1>
 
 
-<h3>¡Hello! :wave: </h3>
+<h3> :wave:  ¡Hello! :wave: </h3>
 
-Welcome, here you will find codes made in the BootCamp, seeing a bit of the Front-End
+Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `Front-End`
 
 
 <h2> :books: Seen in class! :books: </h2>
@@ -56,7 +56,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
 </p>
 
 * [Curriculum-Vitae]()
-* [Curriculum-Markdown](/curriculum_markdown/curriculum-vitae.md)
+* [Curriculum-Markdown](https://github.com/Mileidy25/curriculum_vitae/blob/master/curriculum_markdown/curriculum-vitae.md)
 
 <center>
 <h2> :open_file_folder: Exercises of JavaScript :open_file_folder: </h2>
@@ -71,9 +71,7 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
      Here, you will find the exercises done in class. A little JavaScript and Node.
  </a>
 
-
 </p>
-
 
 * [Javascripting](https://github.com/Mileidy25/javascript/tree/master/javascripting)
 * [Functional-Javascript](https://github.com/Mileidy25/javascript/blob/master/functional-javascript/program.js)
@@ -90,6 +88,6 @@ Welcome, here you will find codes made in the BootCamp, seeing a bit of the Fron
    I hope you have fun!...
    <br/>
    <br/>
- Mileidy Johana Galván A. :octocat:
+       Mileidy Johana Galván A. :octocat:
 
    </footer>

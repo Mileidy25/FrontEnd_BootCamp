@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<hr/>
+
 <center>
 <h1> :computer: Front-End BootCamp :computer: </h1>
 
@@ -12,6 +14,7 @@
 
 Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `Front-End`
 
+<hr/>
 
 <h2> :books: Seen in class! :books: </h2>
 </center>
@@ -32,6 +35,8 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
 * [Tinder-Dog](https://github.com/Mileidy25/frontend_bootcamp/tree/master/dog_tinder)
 * [Animaciones 3D](https://codepen.io/Mileidy17/)
 
+<hr/>
+
 <center>
 <h2> :book: Page in pairs "WebTask" :book: </h2>
 </center>
@@ -43,6 +48,7 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
   <--Falta relizar la pagina-->
 </p>
 
+<hr/>
 
 <center>
 <h2> :page_facing_up: My Firs Curriculum :page_facing_up: </h2>
@@ -57,6 +63,8 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
 
 * [Curriculum-Vitae]()
 * [Curriculum-Markdown](https://github.com/Mileidy25/curriculum_vitae/blob/master/curriculum_markdown/curriculum-vitae.md)
+
+<hr/>
 
 <center>
 <h2> :open_file_folder: Exercises of JavaScript :open_file_folder: </h2>
@@ -79,13 +87,13 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
 * [Learnyounode](https://github.com/Mileidy25/javascript/tree/master/learnyounode)
 * [Expressworks]()
 
- <br />
- <br />
+<hr/>
+
  <br />
 
 
    <footer>
-   I hope you have fun!...
+   <h1>I hope you have fun!...</h1>
    <br/>
    <br/>
        Mileidy Johana Galván A. :octocat:

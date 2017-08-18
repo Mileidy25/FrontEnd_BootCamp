@@ -1415,6 +1415,7 @@ Los **Mock Ups** son fotomontajes que permiten a los diseñadores gráficos y we
 
 <hr/>
 
+
 <!--- Lista de páginas --->
 
 [Webtask]:https://webtask.io/
@@ -1422,8 +1423,7 @@ Los **Mock Ups** son fotomontajes que permiten a los diseñadores gráficos y we
 [Developer]: https://developer.mozilla.org/
 [Selectores]: https://flukeout.github.io/
 [Flexbox]: http://flexboxfroggy.com/
-[Variable]: about:blank
-[Formulario]:
+[Variable]: about:blan
 [Semver]: http://semver.org/
 [Cubo-3D]: https://codepen.io/Mileidy17/pen/QMjeWy
 [Coruesel]: https://codepen.io/Mileidy17/pen/xLwvEj

@@ -51,9 +51,11 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
   </a>
  Here you will find the first group work, on webtaks; in this project I play with
 </p>
-[Willian Serna](https://github.com/wsernalaverde)
+
+* [Willian Serna](https://github.com/wsernalaverde)
 
  <br/>
+ 
 * [webtaks](https://webtask.it.auth0.com/edit/wt-f998ad39cf2a6b9130d43e753db8e755-0#webtaskName=exercise-webtask&token=eyJhbGciOiJIUzI1NiIsImtpZCI6IjIifQ.eyJqdGkiOiIzYzYwZTI2YTBhNmM0ZTBiYWFhOGIzZDEyMGE0ZjI0MyIsImlhdCI6MTQ5ODYxMDQ5MiwiY2EiOlsiOTAwNzMzNGRiMDhjNGQ2M2E0MTNjZGFmM2YzYjYxNGMiXSwiZGQiOjEsInRlbiI6Ii9ed3QtZjk5OGFkMzljZjJhNmI5MTMwZDQzZTc1M2RiOGU3NTUtWzAtMV0kLyJ9.LQnvHwUDgXKi6vwwsSioqkvz7E3CD7fQL1MEdtcL9ro)
 
 <hr/>
@@ -107,14 +109,12 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
    <br/>
    <br/>
 
-   <center>
-       <h2> :octocat: Mileidy Johana Galván A. :octocat: </h2>
-       <br/>
-       <br/>
 
-       <a>
-         <img width=40% src="/srr/mili.png">
-      </a>
-    </center>
+ <p align="center">
+  <a>
+    <img width=100% src="/srr/mili.png">
+  </a>
+  <h2> :octocat: Mileidy Johana Galván A. :octocat: </h2>
+</p>
 
    </footer>

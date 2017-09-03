@@ -103,13 +103,11 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
 
    <footer>
    <h1>I hope you have fun!...</h1>
-   <br />
-
-<h2> :octocat: Mileidy Johana Galván A. :octocat: </h2>
 
  <p align="center">
   <a>
     <img width=20% src="/srr/mili.png">
+    <h2> :octocat: Mileidy Johana Galván A. :octocat: </h2>
   </a>
 
 </p>

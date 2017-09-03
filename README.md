@@ -10,7 +10,7 @@
 <h1> :computer: Front-End BootCamp :computer: </h1>
 
 
-<h3> :wave:  ¡Hello! :wave: </h3>
+<h2> :wave:  ¡Hello! :wave: </h2>
 
 Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `Front-End`
 
@@ -18,6 +18,8 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
 
 <h2> :books: Seen in class! :books: </h2>
 </center>
+
+<br/>
 
 <a>
   <p align="left">
@@ -41,13 +43,17 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
 <h2> :book: Page in pairs "WebTask" :book: </h2>
 </center>
 
+<br/>
+
 <p align="left">
   <a>
     <img width=3% src="/srr/webtask.jpg">
   </a>
-
+ Here you will find the first group work, on webtaks; in this project I play with
 </p>
+[Willian Serna](https://github.com/wsernalaverde)
 
+ <br/>
 * [webtaks](https://webtask.it.auth0.com/edit/wt-f998ad39cf2a6b9130d43e753db8e755-0#webtaskName=exercise-webtask&token=eyJhbGciOiJIUzI1NiIsImtpZCI6IjIifQ.eyJqdGkiOiIzYzYwZTI2YTBhNmM0ZTBiYWFhOGIzZDEyMGE0ZjI0MyIsImlhdCI6MTQ5ODYxMDQ5MiwiY2EiOlsiOTAwNzMzNGRiMDhjNGQ2M2E0MTNjZGFmM2YzYjYxNGMiXSwiZGQiOjEsInRlbiI6Ii9ed3QtZjk5OGFkMzljZjJhNmI5MTMwZDQzZTc1M2RiOGU3NTUtWzAtMV0kLyJ9.LQnvHwUDgXKi6vwwsSioqkvz7E3CD7fQL1MEdtcL9ro)
 
 <hr/>
@@ -55,6 +61,8 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
 <center>
 <h2> :page_facing_up: My Firs Curriculum :page_facing_up: </h2>
 </center>
+
+<br/>
 
 <p align="left">
   <a>
@@ -98,6 +106,15 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
    <h1>I hope you have fun!...</h1>
    <br/>
    <br/>
-       Mileidy Johana Galván A. :octocat:
+
+   <center>
+       <h2> :octocat: Mileidy Johana Galván A. :octocat: </h2>
+       <br/>
+       <br/>
+
+       <a>
+         <img width=40% src="/srr/mili.png">
+      </a>
+    </center>
 
    </footer>

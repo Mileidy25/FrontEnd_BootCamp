@@ -102,6 +102,7 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
 
 
    <footer>
+   <center>
    <h1>I hope you have fun!...</h1>
 
  <p align="center">
@@ -110,5 +111,5 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
     <img width=30% src="/srr/mili.png">
   </a>
 </p>
-
+</center>
    </footer>

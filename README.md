@@ -70,7 +70,7 @@ Welcome, here you will find codes made in the `BootCamp,` seeing a bit of the `F
  </a>
 </p>
 
-* [Curriculum-Vitae]()
+* [Curriculum-Vitae](https://mileidy25.github.io/curriculum_vitae/)
 * [Curriculum-Markdown](https://github.com/Mileidy25/curriculum_vitae/blob/master/curriculum_markdown/curriculum-vitae.md)
 
 <hr/>
